@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to top, #dbdcd7 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+}
+.col-md-5{
+    margin:150px !important
+}
+h1{
+    text-align:center !important;
+     font-weight:bold !important;
+     margin:20px !important;
+     color:black !important;
+     
+}
+button{
+    margin-left:10px !important;
+}
+input{
+    display:inline !important;
+    border:3px solid blue !important;
+    width:80% !important;
+}
+li{
+    list-style-type:none;
+    font-size:20px;
+    text-align:center;
+    width:70%;
+    display:inline;
+}
+i{
+    color:red;
+}
